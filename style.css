@@ -55,5 +55,9 @@ table {
 td , th {
     padding: 0.75rem;
     text-align: left;
-    
+    border-bottom: 1px solid #ddd;
+}
+th{
+    color: #4a99e2;
+    margin-bottom: 1rem;
 }
